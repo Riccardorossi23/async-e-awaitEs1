@@ -1,0 +1,12 @@
+/Users/riccardorossi/Desktop/async e await/obj/Debug/netcoreapp3.1/async e await.csprojAssemblyReference.cache
+/Users/riccardorossi/Desktop/async e await/obj/Debug/netcoreapp3.1/async e await.AssemblyInfoInputs.cache
+/Users/riccardorossi/Desktop/async e await/obj/Debug/netcoreapp3.1/async e await.AssemblyInfo.cs
+/Users/riccardorossi/Desktop/async e await/obj/Debug/netcoreapp3.1/async e await.csproj.CoreCompileInputs.cache
+/Users/riccardorossi/Desktop/async e await/bin/Debug/netcoreapp3.1/async e await.deps.json
+/Users/riccardorossi/Desktop/async e await/bin/Debug/netcoreapp3.1/async e await.runtimeconfig.json
+/Users/riccardorossi/Desktop/async e await/bin/Debug/netcoreapp3.1/async e await.runtimeconfig.dev.json
+/Users/riccardorossi/Desktop/async e await/bin/Debug/netcoreapp3.1/async e await.dll
+/Users/riccardorossi/Desktop/async e await/bin/Debug/netcoreapp3.1/async e await.pdb
+/Users/riccardorossi/Desktop/async e await/obj/Debug/netcoreapp3.1/async e await.dll
+/Users/riccardorossi/Desktop/async e await/obj/Debug/netcoreapp3.1/async e await.pdb
+/Users/riccardorossi/Desktop/async e await/obj/Debug/netcoreapp3.1/async e await.genruntimeconfig.cache
